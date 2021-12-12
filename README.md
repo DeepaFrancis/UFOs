@@ -13,8 +13,11 @@
 
 ## *Overview*
 
-*A person can search for UFO sighting(s) by filtering on date, city, state, country, and shape. The table displays results according to user input. The following pictures represent how the webpage works.*
+*A person can search for UFO sighting(s) by filtering on date, city, state, country, and shape. The table displays results according to user input.*
 
+## *Results*
+
+*The following pictures represent how the webpage works.*
 
 <img width="960" alt="AspenCO" src="https://user-images.githubusercontent.com/89530570/145726485-8e6cebf3-c935-4985-be9b-991966e7fcc3.png">
 
